@@ -7,7 +7,9 @@ This project is designed to summarize legal case texts using a variety of algori
 To run this project, you will need to have the following installed:
 
 Python 3
+
 rouge
+
 rouge_score
 evaluate
 pandas
