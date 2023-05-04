@@ -11,11 +11,19 @@ Python 3
 rouge
 
 rouge_score
+
 evaluate
+
 pandas
+
 xml.etree.ElementTree
+
 nltk
+
 collections
+
 numpy
+
 pprint
+
 tqdm
