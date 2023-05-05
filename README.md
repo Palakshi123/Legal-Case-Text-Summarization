@@ -12,9 +12,13 @@ We used a dataset of 4,000 legal cases obtained from https://archive.ics.uci.edu
 We implemented five algorithms for legal case text summarization:
 
 BERT
+
 Neural Network
+
 SumBasic
+
 KL Divergence
+
 TextRank
 
 ## Evaluation
